@@ -17,5 +17,5 @@ mvc-dispatcher-servlet.xml need to update credential for mysql
 			value="jdbc:mysql://localhost:3306/RestGae?createDatabaseIfNotExist=true"></property>
 		<property name="username" value="root"></property>
 		<property name="password" value="root"></property>
-	</bean>
+</bean>
 
