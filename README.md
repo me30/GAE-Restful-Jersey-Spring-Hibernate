@@ -8,7 +8,7 @@ App Engine SDK[App Engine 1.9.34]
 # Details
 
 RestSrpingGAE is the application with jar file so need to import in eclipse.
-mvc-dispatcher-servlet.xml need to update credential for mysql 
+mvc-dispatcher-servlet.xml need to update credential for mysql.
 
 <bean id="dataSource"
 		class="org.springframework.jdbc.datasource.DriverManagerDataSource">
